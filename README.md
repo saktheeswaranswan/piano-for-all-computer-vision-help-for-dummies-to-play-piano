@@ -1,4 +1,8 @@
 # piano-for-all-computer-vision-help-for-dummies-to-play-piano
+before you start listen to this music eventough it trgedy it has soul and enregy because gods  made it 
+
+https://www.youtube.com/watch?v=U2l4uP81Rg4
+
 this methsod of learmnig will not make you lazy but gives the big picture of music and i want to deticate my invention
 to kamal hassan and illayaraja both have an phenomenal genius in them 
 so I name this method of computer vision aided music learning and playin as
