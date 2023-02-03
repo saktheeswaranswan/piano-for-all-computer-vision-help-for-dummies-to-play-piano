@@ -1,5 +1,5 @@
 # piano-for-all-computer-vision-help-for-dummies-to-play-piano
-before you start listen to this music eventough it trgedy it has soul and enregy because gods  made it 
+before you start listen to this music eventough it tragedy it has soul and enregy because gods made it 
 
 https://www.youtube.com/watch?v=U2l4uP81Rg4
 
