@@ -232,6 +232,42 @@ Whole note: 66.67 milliseconds
 
 Note that these durations are based on the assumption of a tempo of 60 BPM. The actual duration of each note will depend on the tempo and time signature being used in your piece of music.
 
+Note	Duration (milliseconds)
+C#	500
+C#	500
+B	500
+A	500
+F#	500
+G#	500
+A	500
+B	500
+A	500
+G#	500
+E	500
+F#	500
+G#	500
+A	500
+G#	500
+E	500
+F#	500
+F#	500
+F#	500
+C#	500
+F#	500
+F#	500
+F#	500
+F#	500
+C#	500
+F#	500
+F#	500
+F#	500
+G#	500
+E	500
+F#	500
+F#	500
+F#	500
+F#	500
+
 
 
 
