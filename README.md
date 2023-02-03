@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=U2l4uP81Rg4
 
 this methsod of learmnig will not make you lazy but gives the big picture of music and i want to deticate my invention
 to kamal hassan and illayaraja both have an phenomenal genius in them 
-so I name this method of computer vision aided music learning and playin as
+so I name this method of computer vision aided music learning and playing as
 #kamal en raja cv method music learning 
 #கமல் என் ராஜா cv method music learning (computer vision method)
 #kamla is kamal hassan has 
