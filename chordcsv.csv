@@ -1,6 +1,6 @@
 NoteOne,NoteTwo,NoteThree,Duration
-c,a,g#,1000
-c#,a#,cash1,2000
-d,b,d1,3000
-e,c1,dash1,4000
-f,e1,fash1,5000
+c,c#,d,1000
+d#,c#,d,2000
+c,c#,d,3000
+d#,c#,d,4000
+c#,c#,d,5000
